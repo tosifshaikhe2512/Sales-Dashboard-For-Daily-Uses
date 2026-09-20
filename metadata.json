@@ -1,0 +1,7 @@
+{
+  "name": "Sales Command Center",
+  "description": "Executive sales management command center with DRR intelligence, hierarchy analytics, and team engagement.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
